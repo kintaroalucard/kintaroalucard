@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hola, soy Ingeniero de Software
 
-<!--
-**kintaroalucard/kintaroalucard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Apasionado por el desarrollo de software, la automatización y las tecnologías open source.  
+🐧 Fan de Linux, los contenedores y el código limpio.  
+🐍 Python como lenguaje principal para crear soluciones eficientes y escalables.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre mí
+- 🎓 Ingeniero de Software
+- 💻 Desarrollo backend y automatización
+- ⚙️ Experiencia en entornos Linux
+- 📦 Contenerización de aplicaciones con Docker
+- 📈 En constante aprendizaje y mejora continua
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+### 🔹 Lenguajes
+- 🐍 **Python**
+- 🖥️ Bash / Shell scripting
+
+### 🔹 Sistemas
+- 🐧 **Linux** (Ubuntu, Debian, Arch)
+- ⚙️ Administración de servidores
+
+### 🔹 DevOps & Contenedores
+- 🐳 **Docker**
+- 📦 Docker Compose
+- 🔧 CI/CD (conceptos y buenas prácticas)
+
+### 🔹 Control de versiones
+- 🌱 Git & GitHub
+
+---
+
+## 📂 Proyectos Destacados
+🔹 Automatización de tareas en Linux  
+🔹 Aplicaciones backend en Python  
+🔹 Servicios contenerizados con Docker  
+🔹 Scripts para administración y despliegue
+
+*(Próximamente más proyectos 👀)*
+
+---
+
+## 📚 Actualmente aprendiendo
+- ☁️ Cloud Computing
+- 🧠 Arquitectura de software
+- 🔐 Seguridad en aplicaciones
+- ⚡ Optimización y rendimiento
+
+---
+
+## 📫 Conecta conmigo
+- 💼 GitHub: **kintaroalucard**
+
+
+---
+
+⭐ Si te gusta mi trabajo, no olvides dejar una estrella en los repositorios
